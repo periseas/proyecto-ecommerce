@@ -72,3 +72,7 @@ docker exec -it laravel-app bash
 npm install
 npm run dev
 ```
+
+![Demo en proyecto](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpxNWE4djU4Zmx1ZGtjOWR3Zms3aTJzZDNmaGthNnlrbTQ2bWlqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UzYshvMKae7B9nUDbv/giphy.gif)
+
+![Demo en proyecto](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdvOHFqbWxlZWdyMjh3anNnaTVpMzR2bXkyams0emljNm81MTBveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1xykf4XM6HnOMngmeB/giphy.gif)
