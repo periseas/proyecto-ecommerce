@@ -1,4 +1,3 @@
-// src/utils/auth.js
 export function getUser() {
     const u = localStorage.getItem('user')
     return u ? JSON.parse(u) : null

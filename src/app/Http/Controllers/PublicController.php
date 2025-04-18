@@ -15,10 +15,10 @@ class PublicController extends Controller
     {
         // Información estática (puedes mover esto a una tabla de configuración o CMS después)
         $info = [
-            'title' => 'Bienvenid@ a Cosplay Market',
+            'title' => 'Bienvenid@ a  Market',
             'subtitle' => 'Descubre productos únicos y personalizados',
-            'description' => 'En nuestra tienda podrás encontrar artículos relacionados con el mundo del cosplay, desde props hasta sesiones fotográficas y más.',
-            'contact_email' => 'soporte@cosplaymarket.com',
+            'description' => '',
+            'contact_email' => 'soporte@market.com',
             'banner_url' => asset('images/home-banner.jpg'),
         ];
 
